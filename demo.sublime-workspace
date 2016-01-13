@@ -1,0 +1,199 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"di",
+				"display"
+			],
+			[
+				"B",
+				"BackupUpdateConfiguration"
+			],
+			[
+				"rea",
+				"react-bootstrap"
+			],
+			[
+				"bu",
+				"buttonsInstance"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/ucenter/react-ucenter/src/components/configuration/UploadUpdateFile.js",
+		"/D/ucenter/react-ucenter/src/components/configuration/SysConfiguration.js",
+		"/D/ucenter/react-ucenter/src/resources/Resouce.js",
+		"/D/ucenter/react-ucenter/src/resources/configuration/PlatFormUpdateResource.js",
+		"/E/ReactDemo/material-ui-master/material-ui-master/docs/src/app/components/svg-icons/action-info.jsx",
+		"/E/ReactDemo/material-ui-master/material-ui-master/src/styles/theme-manager.js",
+		"/E/ReactDemo/material-ui-master/material-ui-master/src/index.js",
+		"/E/ReactDemo/material-ui-master/material-ui-master/docs/src/app/components/pages/components/app-bar.jsx",
+		"/E/ReactDemo/material-ui-master/material-ui-master/src/svg-icons/index.js",
+		"/E/ReactDemo/material-ui-master/material-ui-master/docs/src/app/components/pages/customization/themes.jsx",
+		"/E/ReactDemo/material-ui-master/material-ui-master/docs/src/app/components/code-example/code-block.jsx",
+		"/E/ReactDemo/material-ui-master/material-ui-master/docs/src/app/components/pages/components/select-fields.jsx",
+		"/E/ReactDemo/material-ui-master/material-ui-master/docs/src/app/components/raw-code/toolbars-code.txt",
+		"/E/ReactDemo/material-ui-master/material-ui-master/test/drop-down-menu-spec.js",
+		"/E/ReactDemo/material-ui-master/material-ui-master/docs/src/app/components/pages/components/toolbars.jsx",
+		"/E/ReactDemo/material-ui-master/material-ui-master/docs/src/app/components/raw-code/lists-code.txt",
+		"/E/ReactDemo/material-ui-master/material-ui-master/docs/src/app/components/pages/components/lists.jsx",
+		"/E/ReactDemo/material-ui-master/material-ui-master/src/menus/menu.jsx",
+		"/E/ReactDemo/material-ui-master/material-ui-master/examples/webpack-example/src/app/components/main.jsx",
+		"/E/ReactDemo/material-ui-master/material-ui-master/examples/webpack-example/src/app/app.jsx",
+		"/E/ReactDemo/material-ui-master/material-ui-master/examples/browserify-gulp-example/src/app/components/main.jsx"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"E:\\ReactDemo\\material-ui-master\\material-ui-master",
+			"E:\\ReactDemo\\material-ui-master\\material-ui-master\\docs",
+			"E:\\ReactDemo\\material-ui-master\\material-ui-master\\docs\\src\\www\\images\\grid-list",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"dialogContent",
+			"styles.dialogContent",
+			"Dialog",
+			"onItemTouchTap",
+			"iconButtonElement",
+			"rightIconMenu",
+			"rightIconButton",
+			"valueMember",
+			"DropDownMenu",
+			"state.selectedIndex",
+			"MoreVertIcon",
+			"getMuiTheme",
+			"more-vert",
+			"IconButton",
+			"rightIconMenu",
+			"style",
+			"autoGenerateNestedIndicator",
+			"react-component",
+			"d3",
+			"pie",
+			"piechar",
+			"piechart"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 239.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 279.0,
+	"status_bar_visible": true
+}
