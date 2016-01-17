@@ -23,6 +23,23 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "java8/ComputeIfAbsentTest.java",
+			"settings":
+			{
+				"buffer_size": 467,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "java8/Person.java",
+			"settings":
+			{
+				"buffer_size": 118,
+				"line_ending": "Windows",
+				"name": "public class Person{"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -48,6 +65,8 @@
 	},
 	"file_history":
 	[
+		"/E/javapart/java/java8/ComputeIfAbsentTest",
+		"/E/javapart/java/demo.sublime-project",
 		"/D/ucenter/react-ucenter/src/components/configuration/UploadUpdateFile.js",
 		"/D/ucenter/react-ucenter/src/components/configuration/SysConfiguration.js",
 		"/D/ucenter/react-ucenter/src/resources/Resouce.js",
@@ -129,8 +148,63 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "java8/ComputeIfAbsentTest.java",
+					"settings":
+					{
+						"buffer_size": 467,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								462,
+								462
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 90.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "java8/Person.java",
+					"settings":
+					{
+						"buffer_size": 118,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								113,
+								113
+							]
+						],
+						"settings":
+						{
+							"auto_name": "public class Person{",
+							"syntax": "Packages/Java/Java.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -140,7 +214,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 31.0
 	},
 	"layout":
 	{
@@ -194,6 +268,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 279.0,
+	"side_bar_width": 178.0,
 	"status_bar_visible": true
 }
